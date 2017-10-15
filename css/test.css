@@ -1,0 +1,25 @@
+.graytext{
+	color: #777;
+}
+.bk{
+	background:#E5D9D9 
+}
+
+body{
+	margin-top: 50px;
+}
+.r{
+	
+	border:1px solid #E5D9D9;
+	border-radius: 50px;
+}
+
+p{
+    text-indent:2em;    /*每个P段落，首行空出两个空格，即缩进两个字符*/
+}
+.pd{
+	margin-top: 20px;
+}
+.bt{
+	padding-bottom: 50px
+}
